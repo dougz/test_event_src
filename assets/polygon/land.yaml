@@ -1,0 +1,153 @@
+icons:
+  circle:
+    solved:
+      poly: 792,186,847,156,854,107,829,70,788,60,743,77,726,127,747,170
+      pos: [721, 55]
+      size: [138, 136]
+    solved_mask:
+      pos: [721, 55]
+      size: [138, 136]
+    solved_thumb:
+      size: [162, 160]
+    unlocked:
+      poly: 799,190,858,142,829,110,773,107,728,145,757,173
+      pos: [723, 102]
+      size: [140, 93]
+    unlocked_mask:
+      pos: [723, 102]
+      size: [140, 93]
+    unlocked_thumb:
+      size: [162, 160]
+  diamond:
+    solved:
+      poly: 764,419,656,495,764,568,866,493
+      pos: [651, 414]
+      size: [220, 159]
+    solved_mask:
+      pos: [651, 414]
+      size: [220, 159]
+    solved_thumb:
+      size: [253, 179]
+    unlocked:
+      poly: 763,566,874,516,757,468,651,520
+      pos: [646, 463]
+      size: [233, 108]
+    unlocked_mask:
+      pos: [646, 463]
+      size: [233, 108]
+    unlocked_thumb:
+      size: [253, 179]
+  ellipse:
+    solved:
+      poly: 134,392,99,426,90,478,108,538,142,559,176,534,188,471,170,409
+      pos: [85, 387]
+      size: [108, 177]
+    solved_mask:
+      pos: [85, 387]
+      size: [108, 177]
+    solved_thumb:
+      size: [134, 197]
+    unlocked:
+      poly: 171,542,191,496,168,457,126,453,87,496,107,535,140,553
+      pos: [82, 448]
+      size: [114, 110]
+    unlocked_mask:
+      pos: [82, 448]
+      size: [114, 110]
+    unlocked_thumb:
+      size: [134, 197]
+  hexagon:
+    solved:
+      poly: 274,260,345,256,386,311,356,375,286,382,246,325
+      pos: [241, 251]
+      size: [150, 136]
+    solved_mask:
+      pos: [241, 251]
+      size: [150, 136]
+    solved_thumb:
+      size: [176, 159]
+    unlocked:
+      poly: 348,385,392,336,341,296,267,313,248,347,290,385
+      pos: [243, 291]
+      size: [154, 99]
+    unlocked_mask:
+      pos: [243, 291]
+      size: [154, 99]
+    unlocked_thumb:
+      size: [176, 159]
+  octagon:
+    solved:
+      poly: 408,453,367,498,369,554,407,594,465,596,506,556,502,499,464,457
+      pos: [362, 448]
+      size: [149, 153]
+    solved_mask:
+      pos: [362, 448]
+      size: [149, 153]
+    solved_thumb:
+      size: [175, 178]
+    unlocked:
+      poly: 459,601,502,571,505,527,466,498,400,511,361,541,367,565,408,590
+      pos: [356, 493]
+      size: [154, 113]
+    unlocked_mask:
+      pos: [356, 493]
+      size: [154, 113]
+    unlocked_thumb:
+      size: [175, 178]
+  pentagon:
+    solved:
+      poly: 124,193,202,156,192,76,109,58,71,130
+      pos: [66, 53]
+      size: [141, 145]
+    solved_mask:
+      pos: [66, 53]
+      size: [141, 145]
+    solved_thumb:
+      size: [163, 165]
+    unlocked:
+      poly: 124,192,200,174,197,113,104,109,69,156
+      pos: [64, 104]
+      size: [141, 93]
+    unlocked_mask:
+      pos: [64, 104]
+      size: [141, 93]
+    unlocked_thumb:
+      size: [163, 165]
+  square:
+    solved:
+      poly: 385,153,484,184,513,85,415,51
+      pos: [380, 46]
+      size: [138, 143]
+    solved_mask:
+      pos: [380, 46]
+      size: [138, 143]
+    solved_thumb:
+      size: [166, 169]
+    unlocked:
+      poly: 481,190,520,113,410,107,384,160
+      pos: [379, 102]
+      size: [146, 93]
+    unlocked_mask:
+      pos: [379, 102]
+      size: [146, 93]
+    unlocked_thumb:
+      size: [166, 169]
+  triangle:
+    solved:
+      poly: 552,382,679,385,616,274
+      pos: [547, 269]
+      size: [137, 121]
+    solved_mask:
+      pos: [547, 269]
+      size: [137, 121]
+    solved_thumb:
+      size: [158, 152]
+    unlocked:
+      poly: 675,396,619,314,551,379
+      pos: [546, 309]
+      size: [134, 92]
+    unlocked_mask:
+      pos: [546, 309]
+      size: [134, 92]
+    unlocked_thumb:
+      size: [158, 152]

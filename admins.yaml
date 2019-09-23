@@ -1,0 +1,5 @@
+admins:
+  dougz:
+    name: Doug Zongker
+    password: aoeu
+    roles: [create_users, control_event]

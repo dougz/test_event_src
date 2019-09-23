@@ -1,0 +1,36 @@
+#nonnav {
+    min-height: 1000px;
+    background: url(@@STATIC:inner_only/land_clouds.png@@) top repeat-x,
+		url(@@STATIC:inner_only/land_tree.png@@) bottom repeat-x,
+		#c3dffb;
+    padding: 0 0 260px 0;
+}
+
+div#map div.p {
+    font-family: 'Merriweather Sans', sans-serif;
+    font-weight: normal;
+}
+
+body {
+}
+
+#logo { margin: 70px 0 40px 0; }
+
+#content {
+    margin: 0;
+    background-color: white;
+    box-shadow: 0 0 0;
+    border-radius: 10px;
+    color: black;
+    border: none;
+}
+
+#content.map {
+    padding: 60px;
+}
+
+#puzz {
+    margin: 30px 20px 40px 20px;
+    min-height: 900px;
+}
+
