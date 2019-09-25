@@ -6,6 +6,7 @@ polygon:
   title: Polygon Land
   symbol: PL
   land_order: 1
+  color: "#cc00ff"
   order: [pentagon, square, circle, hexagon, triangle, ellipse, octagon, diamond]
   assignments:
     pentagon:
