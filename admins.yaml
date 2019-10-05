@@ -3,3 +3,15 @@ admins:
     name: Doug Zongker
     password: aoeu
     roles: [create_users, control_event]
+
+  lpholman:
+    name: Linda Holman
+    password: aoeu
+
+  yarwoo:
+    name: Yar Woo
+    password: aoeu
+
+  corin:
+    name: Corin Anderson
+    password: aoeu

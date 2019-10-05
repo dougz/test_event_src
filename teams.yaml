@@ -1,616 +1,531 @@
 teams:
-  leftout:
-    name: Left Out
-    password: thou
-    size: 60
-    location: Building 1
-
-  galactic:
-    name: ✈✈✈ Galactic Trendsetters ✈✈✈
-    password: trend
-    size: 60
+  vaguely:
+    location: Building 21
+    name: Vaguely Eloquent Team
+    password: aoeu
+    size: 42
+  immoral:
+    location: Building 31
+    name: Immoral, Illegal, and Fattening
+    password: aoeu
+    size: 62
+  wranglers:
+    location: Building 20
+    name: "Sleipnir's Wranglers"
+    password: aoeu
+    size: 40
+  bruins:
+    location: Building 13
+    name: Boston Bruins
+    password: aoeu
+    size: 26
+  nair:
+    location: Building 22
+    name: "Occam's Depilatory Gel"
+    password: aoeu
+    size: 44
+  metaphysical:
+    location: Building 18
+    name: Metaphysical Plant
+    password: aoeu
+    size: 36
+  sg:
     location: Building 2
-
-  team1:
-    name: "Team #1"
-    password: team1
-    size: 5
-    location: "Someone's apartment"
-
-  team2:
-    name: "Team #2"
-    password: team2
-    size: 10
-    location: "Someone's dorm room"
-
-  team3:
-    name: "Team #3"
-    password: team3
-    size: 10
-    location: "Someone's dorm room"
-
-  team4:
-    name: "Team #4"
-    password: team4
-    size: 10
-    location: "Someone's dorm room"
-
-  team5:
-    name: "Team #5"
-    password: team5
-    size: 10
-    location: "Someone's dorm room"
-
-  team6:
-    name: "Team #6"
-    password: team6
-    size: 10
-    location: "Someone's dorm room"
-
-  team7:
-    name: "Team #7"
-    password: team7
-    size: 10
-    location: "Someone's dorm room"
-
-  team8:
-    name: "Team #8"
-    password: team8
-    size: 10
-    location: "Someone's dorm room"
-
-  team9:
-    name: "Team #9"
-    password: team9
-    size: 10
-    location: "Someone's dorm room"
-
-  team10:
-    name: "Team #10"
-    password: team10
-    size: 10
-    location: "Someone's dorm room"
-
-  team11:
-    name: "Team #11"
-    password: team11
-    size: 10
-    location: "Someone's dorm room"
-
-  team12:
-    name: "Team #12"
-    password: team12
-    size: 10
-    location: "Someone's dorm room"
-
-  team13:
-    name: "Team #13"
-    password: team13
-    size: 10
-    location: "Someone's dorm room"
-
-  team14:
-    name: "Team #14"
-    password: team14
-    size: 10
-    location: "Someone's dorm room"
-
-  team15:
-    name: "Team #15"
-    password: team15
-    size: 10
-    location: "Someone's dorm room"
-
-  team16:
-    name: "Team #16"
-    password: team16
-    size: 10
-    location: "Someone's dorm room"
-
-  team17:
-    name: "Team #17"
-    password: team17
-    size: 10
-    location: "Someone's dorm room"
-
-  team18:
-    name: "Team #18"
-    password: team18
-    size: 10
-    location: "Someone's dorm room"
-
-  team19:
-    name: "Team #19"
-    password: team19
-    size: 10
-    location: "Someone's dorm room"
-
-  team20:
-    name: "Team #20"
-    password: team20
-    size: 10
-    location: "Someone's dorm room"
-
-  team21:
-    name: "Team #21"
-    password: team21
-    size: 10
-    location: "Someone's dorm room"
-
-  team22:
-    name: "Team #22"
-    password: team22
-    size: 10
-    location: "Someone's dorm room"
-
-  team23:
-    name: "Team #23"
-    password: team23
-    size: 10
-    location: "Someone's dorm room"
-
-  team24:
-    name: "Team #24"
-    password: team24
-    size: 10
-    location: "Someone's dorm room"
-
-  team25:
-    name: "Team #25"
-    password: team25
-    size: 10
-    location: "Someone's dorm room"
-
-  team26:
-    name: "Team #26"
-    password: team26
-    size: 10
-    location: "Someone's dorm room"
-
-  team27:
-    name: "Team #27"
-    password: team27
-    size: 10
-    location: "Someone's dorm room"
-
-  team28:
-    name: "Team #28"
-    password: team28
-    size: 10
-    location: "Someone's dorm room"
-
-  team29:
-    name: "Team #29"
-    password: team29
-    size: 10
-    location: "Someone's dorm room"
-
-  team30:
-    name: "Team #30"
-    password: team30
-    size: 10
-    location: "Someone's dorm room"
-
-  team31:
-    name: "Team #31"
-    password: team31
-    size: 10
-    location: "Someone's dorm room"
-
-  team32:
-    name: "Team #32"
-    password: team32
-    size: 10
-    location: "Someone's dorm room"
-
-  team33:
-    name: "Team #33"
-    password: team33
-    size: 10
-    location: "Someone's dorm room"
-
-  team34:
-    name: "Team #34"
-    password: team34
-    size: 10
-    location: "Someone's dorm room"
-
-  team35:
-    name: "Team #35"
-    password: team35
-    size: 10
-    location: "Someone's dorm room"
-
-  team36:
-    name: "Team #36"
-    password: team36
-    size: 10
-    location: "Someone's dorm room"
-
-  team37:
-    name: "Team #37"
-    password: team37
-    size: 10
-    location: "Someone's dorm room"
-
-  team38:
-    name: "Team #38"
-    password: team38
-    size: 10
-    location: "Someone's dorm room"
-
-  team39:
-    name: "Team #39"
-    password: team39
-    size: 10
-    location: "Someone's dorm room"
-
-  team40:
-    name: "Team #40"
-    password: team40
-    size: 10
-    location: "Someone's dorm room"
-
-  team41:
-    name: "Team #41"
-    password: team41
-    size: 10
-    location: "Someone's dorm room"
-
-  team42:
-    name: "Team #42"
-    password: team42
-    size: 10
-    location: "Someone's dorm room"
-
-  team43:
-    name: "Team #43"
-    password: team43
-    size: 10
-    location: "Someone's dorm room"
-
-  team44:
-    name: "Team #44"
-    password: team44
-    size: 10
-    location: "Someone's dorm room"
-
-  team45:
-    name: "Team #45"
-    password: team45
-    size: 10
-    location: "Someone's dorm room"
-
-  team46:
-    name: "Team #46"
-    password: team46
-    size: 10
-    location: "Someone's dorm room"
-
-  team47:
-    name: "Team #47"
-    password: team47
-    size: 10
-    location: "Someone's dorm room"
-
-  team48:
-    name: "Team #48"
-    password: team48
-    size: 10
-    location: "Someone's dorm room"
-
-  team49:
-    name: "Team #49"
-    password: team49
-    size: 10
-    location: "Someone's dorm room"
-
-  team50:
-    name: "Team #50"
-    password: team50
-    size: 10
-    location: "Someone's dorm room"
-
-  team51:
-    name: "Team #51"
-    password: team51
-    size: 10
-    location: "Someone's dorm room"
-
-  team52:
-    name: "Team #52"
-    password: team52
-    size: 10
-    location: "Someone's dorm room"
-
-  team53:
-    name: "Team #53"
-    password: team53
-    size: 10
-    location: "Someone's dorm room"
-
-  team54:
-    name: "Team #54"
-    password: team54
-    size: 10
-    location: "Someone's dorm room"
-
-  team55:
-    name: "Team #55"
-    password: team55
-    size: 10
-    location: "Someone's dorm room"
-
-  team56:
-    name: "Team #56"
-    password: team56
-    size: 10
-    location: "Someone's dorm room"
-
-  team57:
-    name: "Team #57"
-    password: team57
-    size: 10
-    location: "Someone's dorm room"
-
-  team58:
-    name: "Team #58"
-    password: team58
-    size: 10
-    location: "Someone's dorm room"
-
-  team59:
-    name: "Team #59"
-    password: team59
-    size: 10
-    location: "Someone's dorm room"
-
-  team60:
-    name: "Team #60"
-    password: team60
-    size: 10
-    location: "Someone's dorm room"
-
-  team61:
-    name: "Team #61"
-    password: team61
-    size: 10
-    location: "Someone's dorm room"
-
-  team62:
-    name: "Team #62"
-    password: team62
-    size: 10
-    location: "Someone's dorm room"
-
-  team63:
-    name: "Team #63"
-    password: team63
-    size: 10
-    location: "Someone's dorm room"
-
-  team64:
-    name: "Team #64"
-    password: team64
-    size: 10
-    location: "Someone's dorm room"
-
-  team65:
-    name: "Team #65"
-    password: team65
-    size: 10
-    location: "Someone's dorm room"
-
-  team66:
-    name: "Team #66"
-    password: team66
-    size: 10
-    location: "Someone's dorm room"
-
-  team67:
-    name: "Team #67"
-    password: team67
-    size: 10
-    location: "Someone's dorm room"
-
-  team68:
-    name: "Team #68"
-    password: team68
-    size: 10
-    location: "Someone's dorm room"
-
-  team69:
-    name: "Team #69"
-    password: team69
-    size: 10
-    location: "Someone's dorm room"
-
-  team70:
-    name: "Team #70"
-    password: team70
-    size: 10
-    location: "Someone's dorm room"
-
-  team71:
-    name: "Team #71"
-    password: team71
-    size: 10
-    location: "Someone's dorm room"
-
-  team72:
-    name: "Team #72"
-    password: team72
-    size: 10
-    location: "Someone's dorm room"
-
-  team73:
-    name: "Team #73"
-    password: team73
-    size: 10
-    location: "Someone's dorm room"
-
-  team74:
-    name: "Team #74"
-    password: team74
-    size: 10
-    location: "Someone's dorm room"
-
-  team75:
-    name: "Team #75"
-    password: team75
-    size: 10
-    location: "Someone's dorm room"
-
-  team76:
-    name: "Team #76"
-    password: team76
-    size: 10
-    location: "Someone's dorm room"
-
-  team77:
-    name: "Team #77"
-    password: team77
-    size: 10
-    location: "Someone's dorm room"
-
-  team78:
-    name: "Team #78"
-    password: team78
-    size: 10
-    location: "Someone's dorm room"
-
-  team79:
-    name: "Team #79"
-    password: team79
-    size: 10
-    location: "Someone's dorm room"
-
-  team80:
-    name: "Team #80"
-    password: team80
-    size: 10
-    location: "Someone's dorm room"
-
-  team81:
-    name: "Team #81"
-    password: team81
-    size: 10
-    location: "Someone's dorm room"
-
-  team82:
-    name: "Team #82"
-    password: team82
-    size: 10
-    location: "Someone's dorm room"
-
-  team83:
-    name: "Team #83"
-    password: team83
-    size: 10
-    location: "Someone's dorm room"
-
-  team84:
-    name: "Team #84"
-    password: team84
-    size: 10
-    location: "Someone's dorm room"
-
-  team85:
-    name: "Team #85"
-    password: team85
-    size: 10
-    location: "Someone's dorm room"
-
-  team86:
-    name: "Team #86"
-    password: team86
-    size: 10
-    location: "Someone's dorm room"
-
-  team87:
-    name: "Team #87"
-    password: team87
-    size: 10
-    location: "Someone's dorm room"
-
-  team88:
-    name: "Team #88"
-    password: team88
-    size: 10
-    location: "Someone's dorm room"
-
-  team89:
-    name: "Team #89"
-    password: team89
-    size: 10
-    location: "Someone's dorm room"
-
-  team90:
-    name: "Team #90"
-    password: team90
-    size: 10
-    location: "Someone's dorm room"
-
-  team91:
-    name: "Team #91"
-    password: team91
-    size: 10
-    location: "Someone's dorm room"
-
-  team92:
-    name: "Team #92"
-    password: team92
-    size: 10
-    location: "Someone's dorm room"
-
-  team93:
-    name: "Team #93"
-    password: team93
-    size: 10
-    location: "Someone's dorm room"
-
-  team94:
-    name: "Team #94"
-    password: team94
-    size: 10
-    location: "Someone's dorm room"
-
-  team95:
-    name: "Team #95"
-    password: team95
-    size: 10
-    location: "Someone's dorm room"
-
-  team96:
-    name: "Team #96"
-    password: team96
-    size: 10
-    location: "Someone's dorm room"
-
-  team97:
-    name: "Team #97"
-    password: team97
-    size: 10
-    location: "Someone's dorm room"
-
-  team98:
-    name: "Team #98"
-    password: team98
-    size: 10
-    location: "Someone's dorm room"
-
-  team99:
-    name: "Team #99"
-    password: team99
-    size: 10
-    location: "Someone's dorm room"
-
-  team100:
-    name: "Team #100"
-    password: team100
-    size: 10
-    location: "Someone's dorm room"
-
-
-
-
+    name: SG
+    password: aoeu
+    size: 4
+  palmford:
+    location: Building 8
+    name: Palmford
+    password: aoeu
+    size: 16
+  manateem:
+    location: Building 8
+    name: ManateeM
+    password: aoeu
+    size: 16
+  frumious:
+    location: Building 21
+    name: Frumious Bandersnatch
+    password: aoeu
+    size: 42
+  constructs:
+    location: Building 33
+    name: Relatively Theoretical Constructs
+    password: aoeu
+    size: 66
+  neuromology:
+    location: Building 11
+    name: neuromology
+    password: aoeu
+    size: 22
+  bah:
+    location: Building 15
+    name: BAH Interlopers
+    password: aoeu
+    size: 30
+  puzzledom:
+    location: Building 14
+    name: The Puzzledome
+    password: aoeu
+    size: 28
+  etphone:
+    location: Building 18
+    name: ET Phone In Answer
+    password: aoeu
+    size: 36
+  malls:
+    location: Building 17
+    name: Small Llama Malls
+    password: aoeu
+    size: 34
+  lexhunt:
+    location: Building 7
+    name: LexHunt
+    password: aoeu
+    size: 14
+  wizards:
+    location: Building 17
+    name: The Party Wizards
+    password: aoeu
+    size: 34
+  acorns:
+    location: Building 14
+    name: Furious Acorns
+    password: aoeu
+    size: 28
+  wpi:
+    location: Building 15
+    name: WPI Puzzle Club
+    password: aoeu
+    size: 30
+  dynamite:
+    location: Building 14
+    name: Black Dynamite
+    password: aoeu
+    size: 28
+  band:
+    location: Building 19
+    name: MIT University Band
+    password: aoeu
+    size: 38
+  mystere:
+    location: Building 8
+    name: 2MysterE
+    password: aoeu
+    size: 16
+  exercise:
+    location: Building 34
+    name: Left as an Exercise for the Reader
+    password: aoeu
+    size: 68
+  leftout:
+    location: Building 13
+    name: Team Left Out
+    password: aoeu
+    size: 26
+  astro:
+    location: Building 10
+    name: Astro Plus
+    password: aoeu
+    size: 20
+  exit:
+    location: Building 35
+    name: Exit, Rage Left (Pursued by a Bear)
+    password: aoeu
+    size: 70
+  teapots:
+    location: Building 21
+    name: Dick-Pointing Teapots
+    password: aoeu
+    size: 42
+  wwe:
+    location: Building 4
+    name: WWE
+    password: aoeu
+    size: 8
+  dootdoot:
+    location: Building 9
+    name: Doot Doot
+    password: aoeu
+    size: 18
+  fighters:
+    location: Building 18
+    name: 2 MINUTES FIGHTERS
+    password: aoeu
+    size: 36
+  slack:
+    location: Building 19
+    name: Slack Motherfuckers
+    password: aoeu
+    size: 38
+  praxis:
+    location: Building 29
+    name: The Puzzle Pizza Proxy Praxis
+    password: aoeu
+    size: 58
+  hunters:
+    location: Building 18
+    name: Furloughed Hunters
+    password: aoeu
+    size: 36
+  dalton:
+    location: Building 6
+    name: Dalton
+    password: aoeu
+    size: 12
+  hedgehogs:
+    location: Building 15
+    name: Feral Hedgehogs
+    password: aoeu
+    size: 30
+  squad:
+    location: Building 16
+    name: "\U0001F171\uFE0Fetey Squad '23"
+    password: aoeu
+    size: 32
+  shrug:
+    location: Building 9
+    name: "\xAF\\_(\u30C4)_/\xAF"
+    password: aoeu
+    size: 18
+  uplate:
+    location: Building 7
+    name: Up Late
+    password: aoeu
+    size: 14
+  secrets:
+    location: Building 18
+    name: Victorious Secrets
+    password: aoeu
+    size: 36
+  quiz:
+    location: Building 18
+    name: Quiz Quiztofferson
+    password: aoeu
+    size: 36
+  central:
+    location: Building 16
+    name: Central Services
+    password: aoeu
+    size: 32
+  codex:
+    location: Building 13
+    name: CODEX VOYNICH
+    password: aoeu
+    size: 26
+  providenc:
+    location: Building 31
+    name: The Providence Transplantations
+    password: aoeu
+    size: 62
+  control:
+    location: Building 13
+    name: Control Group
+    password: aoeu
+    size: 26
+  mathletes:
+    location: Building 9
+    name: Mathletes
+    password: aoeu
+    size: 18
+  janedoe:
+    location: Building 8
+    name: Jane Doe
+    password: aoeu
+    size: 16
+  mindthegap:
+    location: Building 12
+    name: Mind the Gap
+    password: aoeu
+    size: 24
+  pluto:
+    location: Building 23
+    name: "I'm not a planet either"
+    password: aoeu
+    size: 46
+  twtw:
+    location: Building 4
+    name: TWTW
+    password: aoeu
+    size: 8
+  unclear:
+    location: Building 7
+    name: UnCLeAr
+    password: aoeu
+    size: 14
+  lexingtons:
+    location: Building 14
+    name: The Lexingtons
+    password: aoeu
+    size: 28
+  unclear:
+    location: Building 17
+    name: Unclear Engineers
+    password: aoeu
+    size: 34
+  slalom:
+    location: Building 15
+    name: Molasses Slalom
+    password: aoeu
+    size: 30
+  area51:
+    location: Building 7
+    name: Area 51
+    password: aoeu
+    size: 14
+  corvus:
+    location: Building 18
+    name: Corvus Ailurus Mus
+    password: aoeu
+    size: 36
+  mathcampers:
+    location: Building 28
+    name: Math Campers Solving Puzzles
+    password: aoeu
+    size: 56
+  singles:
+    location: Building 28
+    name: Singles Ready to Stay Inside
+    password: aoeu
+    size: 56
+  wafflehaus:
+    location: Building 10
+    name: "Waffleha\xFCs"
+    password: aoeu
+    size: 20
+  flower:
+    location: Building 18
+    name: The Flower Garden
+    password: aoeu
+    size: 36
+  bees:
+    location: Building 25
+    name: Test Solution Bees Ignore
+    password: aoeu
+    size: 50
+  fish:
+    location: Building 25
+    name: Fishterious Mysterfishies
+    password: aoeu
+    size: 50
+  nope:
+    location: Building 4
+    name: Nope
+    password: aoeu
+    size: 8
+  fellowship:
+    location: Building 21
+    name: Mysterious Fellowship
+    password: aoeu
+    size: 42
+  sloan:
+    location: Building 13
+    name: Sloan Solvers
+    password: aoeu
+    size: 26
+  reptilian:
+    location: Building 21
+    name: Reptilian Hacker Team
+    password: aoeu
+    size: 42
+  gnus:
+    location: Building 9
+    name: Fake Gnus
+    password: aoeu
+    size: 18
+  dragoncakehat:
+    location: Building 3
+    name: "\U0001F409\U0001F370\U0001F3A9"
+    password: aoeu
+    size: 6
+  teammate:
+    location: Building 8
+    name: teammate
+    password: aoeu
+    size: 16
+  puzzkill:
+    location: Building 8
+    name: Puzzkill
+    password: aoeu
+    size: 16
+  unseen:
+    location: Building 11
+    name: Team Unseen
+    password: aoeu
+    size: 22
+  donner:
+    location: Building 17
+    name: Donner Party of N
+    password: aoeu
+    size: 34
+  shortz:
+    location: Building 13
+    name: Eat My Shortz
+    password: aoeu
+    size: 26
+  turquoise:
+    location: Building 25
+    name: The Turquoise Turbochooks
+    password: aoeu
+    size: 50
+  ladder:
+    location: Building 11
+    name: Ladder Dogs
+    password: aoeu
+    size: 22
+  sorrymom:
+    location: Building 11
+    name: '#SorryMom++'
+    password: aoeu
+    size: 22
+  neverever:
+    location: Building 39
+    name: We Are Never Ever Getting Back Together
+    password: aoeu
+    size: 78
+  galactic:
+    location: Building 29
+    name: "\u2708\u2708\u2708 Galactic Trendsetters \u2708\u2708\u2708"
+    password: aoeu
+    size: 58
+  conduction:
+    location: Building 15
+    name: Conduction Band
+    password: aoeu
+    size: 30
+  hunches:
+    location: Building 18
+    name: Hunches in Bunches
+    password: aoeu
+    size: 36
+  blazers:
+    location: Building 13
+    name: Green Blazers
+    password: aoeu
+    size: 26
+  tng:
+    location: Building 27
+    name: SW:TNG - Return to Hogwarts
+    password: aoeu
+    size: 54
+  ducksoup:
+    location: Building 9
+    name: Duck Soup
+    password: aoeu
+    size: 18
+  waslater:
+    location: Building 53
+    name: The Team Formerly Known as the Team to Be Named Later
+    password: aoeu
+    size: 106
+  biggame:
+    location: Building 16
+    name: Big Game Hunters
+    password: aoeu
+    size: 32
+  stooth:
+    location: Building 12
+    name: Stooth Moves
+    password: aoeu
+    size: 24
+  resistance:
+    location: Building 25
+    name: Resistance to Nail Polish
+    password: aoeu
+    size: 50
+  planetix:
+    location: Building 27
+    name: Plane Tickets are Expensive
+    password: aoeu
+    size: 54
+  offinthelab:
+    location: Building 14
+    name: Off In The Lab
+    password: aoeu
+    size: 28
+  awesome:
+    location: Building 18
+    name: Super Team Awesome
+    password: aoeu
+    size: 36
+  rofls:
+    location: Building 15
+    name: Chicken & ROFLs
+    password: aoeu
+    size: 30
+  plain:
+    location: Building 16
+    name: Team Plaid Thong
+    password: aoeu
+    size: 32
+  knock:
+    location: Building 12
+    name: Please Knock
+    password: aoeu
+    size: 24
+  lastplace:
+    location: Building 18
+    name: We Call Last Place
+    password: aoeu
+    size: 36
+  whitelotus:
+    location: Building 17
+    name: The White Lotus
+    password: aoeu
+    size: 34
+  tried:
+    location: Building 64
+    name: We Tried And Therefore Nobody Can Criticize (Except The Winners)
+    password: aoeu
+    size: 128
+  palindrome:
+    location: Building 10
+    name: Palindrome
+    password: aoeu
+    size: 20
+  rhinos:
+    location: Building 22
+    name: Raucous Raucous Rhinos
+    password: aoeu
+    size: 44
+  amateur:
+    location: Building 12
+    name: Amateur Hour
+    password: aoeu
+    size: 24
+  death:
+    location: Building 16
+    name: Death and Mayhem
+    password: aoeu
+    size: 32
+  n3xt:
+    location: Building 4
+    name: N3XT
+    password: aoeu
+    size: 8
+  omnom:
+    location: Building 14
+    name: Om Nom Nom Nom
+    password: aoeu
+    size: 28
+  snowman:
+    location: Building 1
+    name: "\u2603"
+    password: aoeu
+    size: 2
+  fevers:
+    location: Building 17
+    name: The Fermat Fevers
+    password: aoeu
+    size: 34
+  team:
+    location: Building 4
+    name: team
+    password: aoeu
+    size: 8
+  love:
+    location: Building 28
+    name: Grand Unified Theory of Love
+    password: aoeu
+    size: 56
