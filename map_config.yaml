@@ -10,7 +10,7 @@ polygon:
   order: [pentagon, square, circle, hexagon, triangle, ellipse, octagon, diamond]
   assignments:
     pentagon:
-      puzzle: _emoji
+      puzzle: _
     square:
       puzzle: _multi_4
     circle:
@@ -18,9 +18,35 @@ polygon:
     hexagon:
       puzzle: _
     triangle:
+      meta: true
       puzzle: _
     ellipse:
+      puzzle: _emoji
+    octagon:
+      puzzle: _emoji
+    diamond:
       puzzle: _
+
+polygon2:
+  title: Polygon Land 2
+  symbol: PL2
+  land_order: 2
+  color: "#00ccff"
+  order: [pentagon, square, circle, hexagon, triangle, ellipse, octagon, diamond]
+  assignments:
+    pentagon:
+      puzzle: _
+    square:
+      puzzle: _multi_4
+    circle:
+      puzzle: _multi_2
+    hexagon:
+      puzzle: _
+    triangle:
+      meta: true
+      puzzle: _
+    ellipse:
+      puzzle: _emoji
     octagon:
       puzzle: _
     diamond:
